@@ -94,12 +94,13 @@ def train_model(nethraa_brain, X_train, y_train, criterion, optimizer, epochs=20
 
 ### Training Loss Vs Iteration Plot
 
-<img width="686" height="555" alt="image" src="https://github.com/user-attachments/assets/a4845d31-00fe-48da-b18f-7d15bd9459c4" />
+<img width="754" height="606" alt="image" src="https://github.com/user-attachments/assets/06790a14-e6f1-4642-9ea1-ab1d53f4c42e" />
 
 
 ### New Sample Data Prediction
 
-<img width="793" height="400" alt="image" src="https://github.com/user-attachments/assets/5d566fda-2ea2-4352-a96f-d9b8c625496b" />
+<img width="840" height="527" alt="image" src="https://github.com/user-attachments/assets/6496aedf-505e-4e63-89e8-98133a8d42f1" />
+
 
 
 ## RESULT
